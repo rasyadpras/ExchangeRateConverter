@@ -26,12 +26,18 @@ const Converter = () => {
 
     if (isLoading)
         return (
-            <TailSpin color="#4fa94d" wrapperStyle={{position: 'relative', marginLeft: '47.5%'}} />
+        <div className='currency-app'>
+            <Header />
+            <TailSpin color="#4fa94d" wrapperStyle={{position: 'relative', justifyContent: 'center'}} />
+        </div>
         );
 
     if (isError)
         return (
+        <div className='currency-app'>
+            <Header />
             <h1 className='error'>There is something wrong</h1>
+        </div>
         );
 
     return (

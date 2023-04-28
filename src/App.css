@@ -55,6 +55,13 @@ h1 {
   letter-spacing: 1px;
 }
 
+.error h1 {
+  text-align: center;
+  font-family: "SF Pro Rounded Semibold";
+  margin: 30px 20px;
+  font-size: 20px;
+}
+
 input, select {
   background: none;
   border: 0;

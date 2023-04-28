@@ -20,6 +20,11 @@
   src: url("./fonts/SF-Pro-Text-RegularItalic.otf");
 }
 
+@font-face {
+  font-family: "SF Pro Light Italic";
+  src: url("./fonts/SF-Pro-Text-LightItalic.otf");
+}
+
 .App {
   text-align: center;
   font-family: "SF Pro";
@@ -91,7 +96,7 @@ option {
 .detail {
   margin-top: 10px;
   margin-bottom: 2px;
-  font-family: "SF Pro Italic";
+  font-family: "SF Pro Light Italic";
   text-align: center;
   font-size: 12px;
 }

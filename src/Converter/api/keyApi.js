@@ -1,0 +1,1 @@
+export const keyAPI = "wqunadWk6L8Jnncz4D3ZUne07yjgKtrC";

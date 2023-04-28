@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ExchangeRateConverter/static/css/main.1f01326c.css",
+    "main.js": "/ExchangeRateConverter/static/js/main.d0da4b66.js",
+    "static/media/SF-Pro-Rounded-Semibold.otf": "/ExchangeRateConverter/static/media/SF-Pro-Rounded-Semibold.af98bf892da1313b61a1.otf",
+    "static/media/SF-Pro-Text-Regular.otf": "/ExchangeRateConverter/static/media/SF-Pro-Text-Regular.ba21d41dbb34b2e04643.otf",
+    "static/media/SF-Pro-Text-RegularItalic.otf": "/ExchangeRateConverter/static/media/SF-Pro-Text-RegularItalic.49e88ce994926c44a72f.otf",
+    "index.html": "/ExchangeRateConverter/index.html",
+    "main.1f01326c.css.map": "/ExchangeRateConverter/static/css/main.1f01326c.css.map",
+    "main.d0da4b66.js.map": "/ExchangeRateConverter/static/js/main.d0da4b66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f01326c.css",
+    "static/js/main.d0da4b66.js"
+  ]
+}
